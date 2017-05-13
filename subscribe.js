@@ -13,7 +13,7 @@ nomad.prepareToPublish().catch(function(err){
 }).then(function(n) {
   console.log(n);
   const nomadInstance = n;
-  // nomadInstance.publishRoot('root hi');
+  nomadInstance.publishRoot('root hi');
   var counter = 0;
   setInterval(function(){
     console.log('publishing');
