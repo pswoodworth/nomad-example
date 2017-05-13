@@ -1,7 +1,9 @@
 const Nomad = require('nomad-stream')
 const nomad = new Nomad()
+console.log(nomad);
 
-nomad.subscribe(['QmcKg8YHonVbq8ZYkHsNfvdHp3hfwcJknpzv5c7FckLtUR', 'QmPMHfhr3p7fR17SNBmB5vuoVGoLWggVLj8tnYDgBCiUbU'], function(message) {
+
+nomad.subscribe(['QmNgjvfuNJGyx2FEH6wgYpE9D9FwsSVjzyvKtoD7iZhT6z'], function(message) {
   console.log('received new message');
   console.log(message.message);
 }, function(err){console.log(err)});
@@ -41,7 +43,9 @@ nomad.prepareToPublish()
     console.log('READY')
     console.log('DEMO: ROOT PUBLISHED!!!!')
     setInterval(() => {
-      instance.publish(createMessage())
+	const msg = createMessage();
+	console.log('sending message', msg);
+      instance.publish(msg)
     }, 60000)
     return nomad.publish(createMessage())
   })
