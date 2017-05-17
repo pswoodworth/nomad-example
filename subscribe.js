@@ -3,10 +3,10 @@ const nomad = new Nomad()
 console.log(nomad);
 
 
-nomad.subscribe(['QmNgjvfuNJGyx2FEH6wgYpE9D9FwsSVjzyvKtoD7iZhT6z', 'Qmb2zhhtBGHy7R1KhMpXpCBPTjYUCJWzEQKkjMFfcaPrDv'], function(message) {
-  console.log('received new message');
-  console.log(message.message);
-}, function(err){console.log(err)});
+// nomad.subscribe(['QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW', 'Qmb2zhhtBGHy7R1KhMpXpCBPTjYUCJWzEQKkjMFfcaPrDv'], function(message) {
+//   console.log('received new message');
+//   console.log(message.message);
+// }, function(err){console.log(err)});
 
 nomad.prepareToPublish().catch(function(err){
   console.log(err);
