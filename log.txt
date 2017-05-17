@@ -1,0 +1,1132 @@
+Node {
+  identity: null,
+  subscriptions: null,
+  head: 
+   { Data: '',
+     Links: [ [Object], [Object] ],
+     Hash: 'QmZSZ4BXimFkvKUgJQXMQ3L2tBksma1axFW5N73QhcYnuP',
+     Size: 3109 } }
+Node {
+  identity: 
+   { ID: 'QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW',
+     PublicKey: 'CAASpgIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEld8WSS0mg3I6ef8UIaAsW4us7hKAtotolKxN9f4D/dsk/2ytpariMdCrh0SbhXIXbhsHavuuviZjn3YL8TDYXPbL2qm62TRVI4GoswUyLw7wTRvpoxuYqk1Ea/qbIMfNad0ArIncyV0lnBJE05tX3NldNXiGb/F9g/znWB2HSrpM3VKRmfeGCBakJWlFXv/GXPhABf2Ny/WPn+FY4aBhdOOg0KDQyJ6wmUp42/CDei11g0eLRJ3f5sOoatDLODWUdk+0FjwvrJJn8NRs1LOQqK40z57wHp9OrCQ6IqDuwupyhmuKte7AFhmYkGIJ7Jhms5KUCpHYQLQCZgZFkWhnAgMBAAE=',
+     Addresses: 
+      [ '/ip6/::1/tcp/4001/ipfs/QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW',
+        '/ip4/127.0.0.1/tcp/4001/ipfs/QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW',
+        '/ip4/192.168.128.187/tcp/4001/ipfs/QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW',
+        '/ip4/96.84.196.246/tcp/4001/ipfs/QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW',
+        '/ip4/96.84.196.246/tcp/35703/ipfs/QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW' ],
+     AgentVersion: 'go-ipfs/0.4.9-rc2/',
+     ProtocolVersion: 'ipfs/0.1.0' },
+  subscriptions: 
+   { QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW: 
+      Subscription {
+        id: 'QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW',
+        _handlers: [Object],
+        _backlog: [] },
+     QmPMHfhr3p7fR17SNBmB5vuoVGoLWggVLj8tnYDgBCiUbU: 
+      Subscription {
+        id: 'QmPMHfhr3p7fR17SNBmB5vuoVGoLWggVLj8tnYDgBCiUbU',
+        _handlers: [Object],
+        _backlog: [] } },
+  head: 
+   { Data: '',
+     Links: [ [Object], [Object] ],
+     Hash: 'QmZSZ4BXimFkvKUgJQXMQ3L2tBksma1axFW5N73QhcYnuP',
+     Size: 3109 } }
+received new message
+root hi pie
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 46
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 1
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 4
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 5
+received new message
+hi mac 2 14
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 7
+received new message
+hi pie 16
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+publishing
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 7
+received new message
+hi mac 2 17
+received new message
+hi mac 2 28
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 22
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 19
+received new message
+hi pie 29
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 7
+received new message
+hi mac 2 18
+received new message
+hi mac 2 30
+received new message
+hi mac 2 38
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+publishing
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 22
+received new message
+hi pie 34
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 19
+received new message
+hi pie 29
+received new message
+hi pie 38
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 7
+received new message
+hi mac 2 17
+received new message
+hi mac 2 28
+received new message
+hi mac 2 35
+received new message
+hi mac 2 46
+publishing
+publishing
+received new message
+hi pie 49
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 19
+received new message
+hi pie 29
+received new message
+hi pie 41
+received new message
+hi pie 52
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 7
+received new message
+hi mac 2 17
+received new message
+hi mac 2 28
+received new message
+hi mac 2 37
+received new message
+hi mac 2 47
+received new message
+hi mac 2 58
+received new message
+hi mac 2 68
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 19
+received new message
+hi pie 29
+received new message
+hi pie 38
+received new message
+hi pie 51
+received new message
+hi pie 59
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 19
+received new message
+hi pie 29
+received new message
+hi pie 38
+received new message
+hi pie 50
+received new message
+hi pie 58
+received new message
+hi pie 68
+publishing
+publishing
+publishing
+publishing
+received new message
+root hi
+received new message
+hi 27
+received new message
+hi 3
+received new message
+hi mac 2
+received new message
+hi mac 12
+received new message
+hi mac 20
+received new message
+hi mac 29
+received new message
+hi mac 37
+received new message
+hi mac 2 7
+received new message
+hi mac 2 17
+received new message
+hi mac 2 28
+received new message
+hi mac 2 37
+received new message
+hi mac 2 47
+received new message
+hi mac 2 59
+received new message
+hi mac 2 70
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 22
+received new message
+hi pie 33
+received new message
+hi pie 43
+received new message
+hi pie 56
+received new message
+hi pie 65
+received new message
+hi pie 71
+publishing
+publishing
+publishing
+publishing
+publishing
+publishing
+received new message
+ROOT MESSAGE
+received new message
+Message: 0
+received new message
+Message: 1
+received new message
+Message: 2
+received new message
+Message: 3
+received new message
+Message: 4
+received new message
+Message: 5
+received new message
+Message: 7
+received new message
+Message: 8
+received new message
+Message: 9
+received new message
+Message: 10
+received new message
+Message: 11
+received new message
+Message: 12
+received new message
+hi 0
+received new message
+hi 46
+received new message
+hi 91
+received new message
+hi 139
+received new message
+hi 202
+received new message
+hi 245
+received new message
+hi 285
+received new message
+hi 337
+received new message
+hi 10
+received new message
+hi 6
+received new message
+hi 53
+received new message
+hi 103
+received new message
+hi 156
+received new message
+hi pi 1
+received new message
+hi pi 12
+received new message
+hi pi 23
+received new message
+hi pie 1
+received new message
+hi pie 10
+received new message
+hi pie 22
+received new message
+hi pie 33
+received new message
+hi pie 43
+received new message
+hi pie 55
+received new message
+hi pie 66
+received new message
+hi pie 78
+publishing
+publishing
+publishing
+publishing

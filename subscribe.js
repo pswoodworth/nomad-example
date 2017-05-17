@@ -13,13 +13,13 @@ nomad.prepareToPublish().catch(function(err){
 }).then(function(n) {
   console.log(n);
   const nomadInstance = n;
-  nomadInstance.publishRoot('root hi');
+  nomadInstance.publishRoot('root hi pie');
   var counter = 0;
   setInterval(function(){
     console.log('publishing');
-    nomadInstance.publish(`hi ${counter}`);
+    nomadInstance.publish(`hi pie ${counter}`);
     counter++;
-  }, 2000);
+  }, 10000);
 });
 
 
