@@ -3,7 +3,7 @@ const nomad = new Nomad()
 console.log(nomad);
 
 
-nomad.subscribe(['QmdvJyfj2CGVXXP5MQ2c1t6hFUBuSfv3k93J28GdTrX8uW', 'QmPMHfhr3p7fR17SNBmB5vuoVGoLWggVLj8tnYDgBCiUbU'], function(message) {
+nomad.subscribe(['QmRAxkJ7165rcWpGVnrKaB2JavpdbN3AR9eT5UbsRwaf5V', 'QmPMHfhr3p7fR17SNBmB5vuoVGoLWggVLj8tnYDgBCiUbU'], function(message) {
   console.log('received new message');
   console.log(message.message);
 }, function(err){console.log(err)});
